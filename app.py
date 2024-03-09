@@ -10,7 +10,11 @@ class Query(BaseModel):
     data_key: str = None
     max_rows: int = 10
 
-@app.post("/query/", response_model=Query)
+class Data(BaseModel):
+    data_key: str = None
+    data_value: float = None
+
+@app.post("/query/", response_model=Data)
 async def query(query: Query):
     global dictionary_initialized
     if not dictionary_initialized:
