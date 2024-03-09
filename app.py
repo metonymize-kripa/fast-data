@@ -6,12 +6,12 @@ app = FastAPI()
 data_dictionary={}
 
 class Item(BaseModel):
-    name: file_name
+    name: str
     description: str = None
-    company: str
-    sga: float = None
+    price: float
+    tax: float = None
 
-@app.post("/query", response_model=Item)
+@app.post("/items/", response_model=Item)
 async def create_item(item: Item):
     return item
 
