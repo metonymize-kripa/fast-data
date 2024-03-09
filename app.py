@@ -12,6 +12,7 @@ class Query(BaseModel):
 
 @app.post("/query/", response_model=Query)
 async def query(query: Query):
+    global dictionary_initialized
     if not dictionary_initialized:
         raise HTTPException(status_code=404, detail="Dictionary not initialized")
     if query.data_key in data_dictionary:
@@ -24,6 +25,8 @@ async def query(query: Query):
 
 @app.get("/initialize")
 def initialize():
+    global dictionary_initialized
+    global data_dictionary
     try:
         with open('sp500_sga_2021.tsv') as fr:
             for line in fr:
