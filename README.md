@@ -1,2 +1,2 @@
 # fast-data
-A minimal fastapi server that provides Open API access to a tsv table. It accepts: key to filter on, output column names, and maximum number of 
+A minimal fastapi server that provides Open API access to a list of JSON elements extracted from a tsv table.
