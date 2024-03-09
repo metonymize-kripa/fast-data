@@ -10,7 +10,7 @@ class Query(BaseModel):
     data_key: str = None
     max_rows: int = 10
 
-@app.post("/query/", response_model=Item)
+@app.post("/query/", response_model=Query)
 async def query(query: Query):
     if not dictionary_initialized:
         raise HTTPException(status_code=404, detail="Dictionary not initialized")
