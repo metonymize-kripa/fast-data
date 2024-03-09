@@ -1,0 +1,476 @@
+firm	SGA_percent
+3M	0.20
+A. O. Smith	0.21
+Abbott Laboratories	0.25
+AbbVie	0.21
+Abiomed	0.40
+Accenture	0.17
+Activision Blizzard	0.21
+ADM	0.04
+Adobe	0.34
+Advance Auto Parts	0.37
+Advanced Micro Devices	0.09
+AES Corp	0.02
+Aflac	0.16
+Agilent Technologies	0.25
+Air Products & Chemicals	0.07
+Akamai Technologies	0.31
+Alaska Air Group	0.12
+Albemarle Corporation	0.03
+Alexandria Real Estate Equities	0.07
+Align Technology	0.43
+Allegion	0.23
+Alliant Energy	0.01
+Allstate Corp	0.12
+Alphabet (Class A)	0.14
+Alphabet (Class C)	0.14
+Altria Group	0.09
+Amazon	0.23
+Amcor	0.10
+American Airlines Group	0.03
+American Express	0.36
+American International Group	0.18
+American Tower	0.09
+Ameriprise Financial	0.25
+AmerisourceBergen	0.01
+Ametek	0.11
+Amgen	0.23
+Amphenol	0.09
+Analog Devices	0.11
+Ansys	0.35
+Anthem	0.20
+Aon	0.16
+APA Corporation	0.05
+Apple	0.06
+Applied Materials	0.05
+Aptiv	0.07
+Arista Networks	0.13
+Arthur J. Gallagher & Co.	0.12
+Assurant	0.50
+AT&T	0.20
+Atmos Energy	0.00
+Autodesk	0.49
+Automatic Data Processing	0.20
+AutoZone	0.32
+AvalonBay Communities	0.03
+Avery Dennison	0.13
+Baker Hughes	0.12
+Ball Corp	0.05
+Bank of America	0.57
+Bath & Body Works Inc.	0.30
+Baxter International	0.20
+Becton Dickinson	0.24
+Best Buy	0.16
+Bio-Rad Laboratories	0.29
+Bio-Techne	0.34
+Biogen	0.22
+BlackRock	0.11
+BNY Mellon	0.61
+Boeing	0.07
+Booking Holdings	0.56
+BorgWarner	0.09
+Boston Properties	0.05
+Boston Scientific	0.37
+Bristol Myers Squibb	0.17
+Broadcom	0.06
+Broadridge Financial Solutions	0.14
+C. H. Robinson	0.03
+Cadence Design Systems	0.24
+Caesars Entertainment	0.25
+Campbell Soup	0.17
+Capital One Financial	0.45
+Cardinal Health	0.03
+CarMax	0.08
+Carnival Corporation	11.75
+Carrier Global	0.15
+Catalent	0.17
+Caterpillar	0.10
+Cboe Global Markets	0.12
+CBRE	0.14
+CDW	0.10
+Celanese	0.07
+Centene Corporation	0.09
+CenterPoint Energy	0.01
+Ceridian	0.39
+Cerner	0.53
+CF Industries	0.05
+Charles River Laboratories	0.18
+Charles Schwab Corporation	0.43
+Chevron Corporation	0.20
+Chipotle Mexican Grill	0.10
+Chubb	0.08
+Church & Dwight	0.25
+Cigna	0.08
+Cintas Corporation	0.27
+Cisco Systems	0.23
+Citigroup	0.48
+Citizens Financial Group	0.57
+Citrix Systems	0.49
+Clorox	0.25
+CME Group	0.34
+Coca-Cola Company	0.29
+Cognizant Technology Solutions	0.20
+Colgate-Palmolive	0.37
+Comcast	0.38
+Comerica	0.54
+Conagra Brands	0.11
+ConocoPhillips	0.02
+Consolidated Edison	0.01
+Constellation Brands	0.20
+Copart	0.08
+Corning	0.13
+Corteva	0.15
+Costco	0.09
+Coterra	0.06
+Crown Castle	0.11
+Cummins	0.10
+CVS Health	0.13
+D. R. Horton	0.08
+Danaher Corporation	0.28
+Darden Restaurants	0.07
+DaVita	0.10
+Deere & Co.	0.07
+Delta Air Lines	0.03
+Dentsply Sirona	0.37
+Devon Energy	0.05
+DexCom	0.33
+Diamondback Energy	0.03
+Digital Realty Trust	0.11
+Discover Financial Services	0.31
+Discovery (Series A)	0.29
+Discovery (Series C)	0.29
+Dish Network	0.11
+Dollar General	0.22
+Dollar Tree	0.22
+Domino's Pizza	0.10
+Dover Corporation	0.18
+Dow	0.03
+DTE Energy	0.00
+Duke Realty Corp	0.06
+DuPont	0.10
+DXC Technology	0.10
+Eastman Chemical	0.09
+Eaton Corporation	0.17
+eBay	0.33
+Ecolab	0.27
+Edison International	0.07
+Edwards Lifesciences	0.27
+Electronic Arts	0.24
+Eli Lilly & Co	0.23
+Emerson Electric Company	0.23
+Enphase Energy	0.13
+Entergy	0.01
+EOG Resources	0.03
+Equifax	0.28
+Equinix	0.30
+Equity Residential	0.02
+Essex Property Trust	0.04
+Estée Lauder Companies	0.57
+Etsy	0.39
+Everest Re	0.00
+Evergy	0.01
+Expedia Group	0.61
+Expeditors	0.00
+Extra Space Storage	0.09
+ExxonMobil	0.05
+F5 Networks	0.46
+Facebook	0.18
+Fastenal	0.25
+Federal Realty Investment Trust	0.06
+FedEx	0.02
+Fidelity National Information Services	0.25
+Fifth Third Bancorp	0.44
+First Republic Bank	0.55
+Fiserv	0.36
+Fleetcor	0.25
+FMC Corporation	0.14
+Ford	0.07
+Fortinet	0.45
+Fortive	0.37
+Fortune Brands Home & Security	0.21
+Fox Corporation (Class A)	0.14
+Fox Corporation (Class B)	0.14
+Franklin Resources	0.14
+Freeport-McMoRan	0.02
+Gap	0.43
+Garmin	0.16
+Gartner	0.46
+Generac Holdings	0.14
+General Dynamics	0.05
+General Electric	0.14
+General Mills	0.16
+General Motors	0.04
+Genuine Parts	0.26
+Gilead Sciences	0.19
+Global Payments	0.36
+Globe Life	0.00
+Goldman Sachs	0.35
+Halliburton	0.01
+Hanesbrands	0.26
+Hasbro	0.30
+HCA Healthcare	0.03
+Healthpeak Properties	0.05
+Henry Schein	0.22
+Hess Corporation	0.25
+Hewlett Packard Enterprise	0.17
+Hilton Worldwide	0.28
+Hologic	0.16
+Home Depot	0.17
+Honeywell	0.11
+Hormel	0.07
+Host Hotels & Resorts	0.09
+Howmet Aerospace	0.06
+HP	0.09
+Humana	0.13
+Huntington Bancshares	0.58
+Huntington Ingalls Industries	0.08
+IBM	0.28
+IDEX Corporation	0.20
+Idexx Laboratories	0.25
+IHS Markit	0.25
+Illinois Tool Works	0.17
+Illumina	0.33
+Incyte	0.22
+Ingersoll Rand	0.19
+Intel	0.08
+Intercontinental Exchange	0.37
+International Flavors & Fragrances	0.14
+International Paper	0.14
+Interpublic Group	0.05
+Intuit	0.35
+Intuitive Surgical	0.27
+Invesco	0.07
+IPG Photonics	0.15
+IQVIA	0.14
+Iron Mountain	0.23
+J. B. Hunt	0.03
+Jack Henry & Associates	0.11
+Jacobs Engineering Group	0.13
+JM Smucker	0.19
+Johnson & Johnson	0.26
+Johnson Controls	0.20
+JPMorgan Chase	0.49
+Juniper Networks	0.27
+Kellogg's	0.20
+KeyCorp	0.50
+Keysight Technologies	0.24
+Kimberly-Clark	0.18
+Kimco Realty	0.08
+Kinder Morgan	0.05
+KLA Corporation	0.11
+Kraft Heinz	0.12
+Kroger	0.19
+L3Harris Technologies	0.15
+LabCorp	0.11
+Lam Research	0.06
+Lamb Weston	0.09
+Las Vegas Sands	0.41
+Leggett & Platt	0.09
+Leidos	0.06
+Lennar	0.09
+Lincoln National	0.27
+Linde	0.10
+Live Nation Entertainment	1.14
+LKQ Corporation	0.27
+Loews Corporation	0.23
+Lowe's	0.18
+Lumen Technologies	0.15
+LyondellBasell	0.03
+M&T Bank	0.46
+Marathon Oil	0.06
+Marathon Petroleum	0.03
+MarketAxess	0.13
+Marriott International	0.55
+Martin Marietta Materials	0.07
+Masco	0.18
+Mastercard	0.43
+Match Group	0.34
+McCormick & Company	0.21
+McDonald's	0.10
+McKesson Corporation	0.04
+Medtronic	0.32
+Merck & Co.	0.20
+Mettler Toledo	0.26
+MGM Resorts International	0.41
+Microchip Technology	0.11
+Micron Technology	0.04
+Microsoft	0.15
+Mid-America Apartments	0.03
+Moderna	0.05
+Mohawk Industries	0.17
+Molson Coors Beverage Company	0.25
+Mondelez International	0.22
+Monolithic Power Systems	0.19
+Monster Beverage	0.25
+Moody's Corporation	0.21
+Morgan Stanley	0.50
+Motorola Solutions	0.15
+MSCI	0.19
+Nasdaq	0.24
+NetApp	0.35
+Netflix	0.13
+Newell Brands	0.21
+Newmont	0.03
+News Corp (Class A)	0.35
+News Corp (Class B)	0.35
+Nielsen Holdings	0.27
+Nike	0.32
+Northern Trust	0.66
+Northrop Grumman	0.09
+NortonLifeLock	0.29
+Norwegian Cruise Line Holdings	18.77
+NRG Energy	0.07
+Nucor	0.04
+Nvidia	0.09
+NVR	0.05
+NXP	0.09
+O'Reilly Automotive	0.28
+Occidental Petroleum	0.04
+Old Dominion Freight Line	0.04
+Omnicom Group	0.03
+Oneok	0.06
+Oracle	0.22
+Organon & Co.	0.22
+Otis Worldwide	0.13
+Paccar	0.02
+Packaging Corporation of America	0.07
+Parker-Hannifin	0.11
+Paychex	0.31
+Paycom	0.48
+PayPal	0.18
+Penn National Gaming	0.24
+Pentair	0.16
+People's United Financial	0.50
+PepsiCo	0.38
+PerkinElmer	0.21
+Pfizer	0.14
+Philip Morris International	0.25
+Phillips 66	0.07
+Pioneer Natural Resources	0.02
+PNC Financial Services	0.48
+Pool Corporation	0.15
+PPG Industries	0.22
+Principal Financial Group	0.35
+Procter & Gamble	0.26
+Prologis	0.06
+Prudential Financial	0.19
+PTC	0.39
+Public Storage	0.03
+PulteGroup	0.09
+PVH	0.48
+Qorvo	0.08
+Qualcomm	0.07
+Quanta Services	0.09
+Quest Diagnostics	0.15
+Ralph Lauren Corporation	0.54
+Raymond James Financial	0.72
+Raytheon Technologies	0.05
+Realty Income Corporation	0.05
+Regency Centers	0.07
+Regeneron Pharmaceuticals	0.12
+Regions Financial Corporation	0.41
+Republic Services	0.11
+ResMed	0.21
+Robert Half International	0.31
+Rockwell Automation	0.25
+Rollins	0.30
+Roper Technologies	0.43
+Ross Stores	0.21
+Royal Caribbean Group	1.94
+S&P Global	0.17
+Salesforce	0.53
+SBA Communications	0.09
+Schlumberger	0.01
+Seagate Technology	0.05
+Sealed Air	0.14
+Sempra Energy	0.01
+ServiceNow	0.50
+Sherwin-Williams	0.28
+Simon Property Group	0.07
+Skyworks Solutions	0.06
+Snap-on	0.27
+Southwest Airlines	0.01
+Stanley Black & Decker	0.19
+Starbucks	0.07
+State Street Corporation	0.56
+Steris	0.23
+Stryker Corporation	0.33
+SVB Financial	0.44
+Synchrony Financial	0.38
+Synopsys	0.25
+Sysco	0.16
+T-Mobile US	0.23
+T. Rowe Price	0.12
+Take-Two Interactive	0.26
+Tapestry	0.52
+Target Corporation	0.19
+TE Connectivity	0.10
+Teledyne Technologies	0.21
+Teleflex	0.30
+Teradyne	0.15
+Tesla	0.10
+Texas Instruments	0.10
+Textron	0.08
+The Cooper Companies	0.38
+The Hartford	0.21
+The Hershey Company	0.22
+The Mosaic Company	0.04
+The Travelers Companies	0.14
+The Walt Disney Company	0.20
+Thermo Fisher Scientific	0.20
+TJX Companies	0.30
+Tractor Supply Company	0.23
+Trane Technologies	0.17
+TransDigm Group	0.14
+Trimble	0.23
+Truist Financial	0.57
+Twitter	0.29
+Tyler Technologies	0.24
+Tyson Foods	0.05
+U.S. Bancorp	0.52
+Ulta Beauty	0.28
+Under Armour (Class A)	0.40
+Under Armour (Class C)	0.40
+United Airlines	0.03
+United Rentals	0.12
+UnitedHealth Group	0.16
+Universal Health Services	0.01
+Valero Energy	0.01
+Ventas	0.03
+Verisign	0.15
+Verisk Analytics	0.15
+Verizon Communications	0.22
+Vertex Pharmaceuticals	0.12
+VF Corporation	0.43
+ViacomCBS	0.21
+Viatris	0.25
+Visa	0.28
+Vornado Realty Trust	0.09
+Vulcan Materials	0.08
+W. R. Berkley Corporation	0.01
+W. W. Grainger	0.24
+Wabtec	0.12
+Walgreens Boots Alliance	0.18
+Walmart	0.20
+Waste Management	0.10
+Waters Corporation	0.22
+Wells Fargo	0.64
+Welltower	0.03
+West Pharmaceutical Services	0.13
+Western Digital	0.07
+Western Union	0.22
+WestRock	0.09
+Weyerhaeuser	0.05
+Whirlpool Corporation	0.09
+Williams Companies	0.05
+Willis Towers Watson	0.03
+Wynn Resorts	0.26
+Xcel Energy	0.03
+Xilinx	0.15
+Xylem	0.23
+Yum! Brands	0.16
+Zebra Technologies	0.17
+Zimmer Biomet	0.40
+Zions Bancorp	0.46
+Zoetis	0.25
+Average	0.16
