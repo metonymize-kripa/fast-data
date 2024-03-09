@@ -3,15 +3,22 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-class Item(BaseModel):
-    name: str
-    description: str = None
-    price: float
-    tax: float = None
+data_dictionary={}
 
-@app.post("/items/", response_model=Item)
-async def create_item(item: Item):
-    return item
+@app.get("/initialize")
+def initialize():
+    try:
+        with open('sp500_sga_2021.tsv') as fr:
+            for line in fr:
+                [data_key,data_value]=line.strip().split('\t')
+                data_dictionary[data_key]=float(data_value)
+        return {
+        "message": "File loaded"
+        }
+    except:
+        return {
+            "message": "Initialization failed"
+        }
 
 @app.get("/")
 async def read_root():
