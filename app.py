@@ -1,3 +1,7 @@
+"""
+This program is a FastAPI application that takes makes a tsv file explorable via a REST API.
+"""
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -61,7 +65,7 @@ def parse(parameter: str):
 @app.get("/initialize")
 def initialize():
     try:
-        with open('wise.tsv') as fr:
+        with open('sp500_sga_2021.tsv') as fr:
             for line in fr:
                 [symbol,mention]=line.strip().split('\t')
                 wise_dictionary[symbol]=float(mention)
