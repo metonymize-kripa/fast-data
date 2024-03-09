@@ -4,16 +4,23 @@ from pydantic import BaseModel
 app = FastAPI()
 
 data_dictionary={}
+dictionary_initialized=False
 
-class Item(BaseModel):
-    name: str
-    description: str = None
-    price: float
-    tax: float = None
+class Query(BaseModel):
+    data_key: str = None
+    max_rows: int = 10
 
-@app.post("/items/", response_model=Item)
-async def create_item(item: Item):
-    return item
+@app.post("/query/", response_model=Item)
+async def query(query: Query):
+    if not dictionary_initialized:
+        raise HTTPException(status_code=404, detail="Dictionary not initialized")
+    if query.data_key in data_dictionary:
+        return {
+            "data_key": query.data_key,
+            "data_value": data_dictionary[query.data_key]
+        }
+    else:
+        raise HTTPException(status_code=404, detail="Item not found")
 
 @app.get("/initialize")
 def initialize():
@@ -22,10 +29,12 @@ def initialize():
             for line in fr:
                 [data_key,data_value]=line.strip().split('\t')
                 data_dictionary[data_key]=float(data_value)
+        dictionary_initialized=True
         return {
         "message": "File loaded"
         }
     except:
+        dictionary_initialized=False
         return {
             "message": "Initialization failed"
         }
