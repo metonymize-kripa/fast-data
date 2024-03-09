@@ -5,6 +5,16 @@ app = FastAPI()
 
 data_dictionary={}
 
+class Item(BaseModel):
+    name: file_name
+    description: str = None
+    company: str
+    sga: float = None
+
+@app.post("/query", response_model=Item)
+async def create_item(item: Item):
+    return item
+
 @app.get("/initialize")
 def initialize():
     try:
